@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media1.giphy.com/media/DUO76cKAFAObu/giphy.gif?cid=ecf05e47x6w5l6gf4ipe06iqz326qpm3gwmdw21ooxa0skeg&rid=giphy.gif)
 
 <!--
 **guidodizi/guidodizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
