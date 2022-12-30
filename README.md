@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://metrics.lecoq.io/guidodizi?template=classic&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stackoverflow=false&stackoverflow.user=7037861&stackoverflow.sections=%2C&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=America%2FMontevideo"/>
-</p>
-<p align="center">
-  <img src="https://media0.giphy.com/media/26BRsI63ak8uxsU6Y/giphy.gif" />
-</p>
+<img align='left' src="https://metrics.lecoq.io/guidodizi?template=classic&stackoverflow=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&stackoverflow=false&stackoverflow.user=7037861&stackoverflow.sections=%2C&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=America%2FMontevideo"/>
+
+<img src="https://media0.giphy.com/media/26BRsI63ak8uxsU6Y/giphy.gif" />
+
+
 <!--
 **guidodizi/guidodizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
