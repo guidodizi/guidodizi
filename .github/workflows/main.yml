@@ -18,4 +18,6 @@ jobs:
         with:
           token: ${{ env.TOKEN }}
           plugin_achievements: yes
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 7037861
 
