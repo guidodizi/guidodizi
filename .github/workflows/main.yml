@@ -21,4 +21,8 @@ jobs:
           plugin_achievements_display: compact
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 7037861
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
+
+
 
